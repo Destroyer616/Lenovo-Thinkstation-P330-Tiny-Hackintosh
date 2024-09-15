@@ -1,35 +1,34 @@
-# Lenovo-Thinkstation-P330-Tiny-Hackintosh
-Lenovo Thinkstation P330 Tiny Hackintosh
+# Lenovo Thinkstation P330 Tiny Hackintosh
 
+---
 # Specs
-CPU - i5 8600t
 
-GPU - Intel Integrated UHD Graphics 630
+| CPU          | intel i5 8600T                              |
+| ------------ | ------------------------------------------- |
+| GPU          | Integrated UHD 630                          |
+| Audio        | Realtek ALC233VB                            |
+| Connectivity | Onboard intel ethernet, TP Link T2UB dongle |
 
-Audio - Realtek ALC233VB
-
-Connectivty - Onboard intel ethernet, TP Link T2UB dongle
-
+---
 # Whats working
-GPU Acceleration - yes
 
-Imessage,Facetime - yes
+| GPU Acceleration | YES |
+| ---------------- | --- |
+| I Services       | YES |
+| Ethernet         | YES |
+| WIFI             | YES |
+| Audio            | YES |
+| Sleep            | YES |
+| USB              | YES |
+| Updates          | YES |
 
-Ethernet - yes
-
-Wifi - yes
-
-Audio - yes
-
-Sleep - yes
-
-USB - yes
-
-Software and security Updates - yes
-
+---
 # Not working
-Bluetooth
 
-Airdrop
 
-DRM ( Software DRM works on Chrome)
+| Bluetooth | Not Tested                                  |
+| --------- | ------------------------------------------- |
+| Airdrop   | Not Tested                                  |
+| DRM       | Software DRM Works on Chrome based browsers |
+
+---
